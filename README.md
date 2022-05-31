@@ -1,4 +1,5 @@
 ///Español
+
 Dapp para el sentimiento de mercado. 
 Buenas, hoy os traigo el código de una Dapp que he creado y desplegado en Mumbai testnet(Polygon). La aplicación trata de averiguar el sentimiento que existe en el mercado (bajista o alcista), con 3 protocolos como son Ethereum, Bitcoin y Polkadot. En esta Dapp, cualquier persona con una wallet y MATIC en testnet, puede votar si cree que la criptomoneda va a subir o bajar. También en el botón info, podemos ver el precio de los activos en tiempo real y una descripción de ellos. 
 Para el desarrollo de esta Dapp he usado las siguientes herramientas:
@@ -8,6 +9,7 @@ Gracias por leer hasta aquí!
 Saludos. Jose. 
 
 ///English
+
 Market Sentiment Dapp.
 Good afternoon, today I bring you a code of a Dapp that I have created and deployed in Mumbai testnet (Polygon). This project tries to show the sentiment that exists in the market (bearish or bullish), with 3 main protocols: Ethereum, Bitcoin and Polkadot. In this Dapp, anyone with a wallet and MATIC on the testnet can vote if they think the cryptocurrencies will go up or down. Also in the info button, we can see the price of the assets in real time and a description of them.
 For the development of this Dapp I have used the following tools:
