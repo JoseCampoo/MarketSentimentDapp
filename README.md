@@ -9,6 +9,10 @@ Los votos de la gente se almacenan en la base de datos de Moralis que está corr
 Gracias por leer hasta aquí! 
 Saludos. Jose. 
 
+Enlace al video de la Dapp en funcionamiento: 
+
+https://www.linkedin.com/posts/jose-campoo-olalla-1a3121ab_dapp-blockchaindevelopers-solidity-ugcPost-6937496902074568704-94Ci?utm_source=linkedin_share&utm_medium=member_desktop_web
+
 ///English
 
 Market Sentiment Dapp.
@@ -16,5 +20,8 @@ Market Sentiment Dapp.
 Good afternoon, today I bring you a code of a Dapp that I have created and deployed in Mumbai testnet (Polygon). This project tries to show the sentiment that exists in the market (bearish or bullish), with 3 main protocols: Ethereum, Bitcoin and Polkadot. In this Dapp, anyone with a wallet and MATIC on the testnet can vote if they think the cryptocurrencies will go up or down. Also in the info button, we can see the price of the assets in real time and a description of them.
 For the development of this Dapp I have used the following tools:
 Solidity, Hardhat, Yarn, Nodejs, Moralis (This project is based on one of its videos) React, Polygon testnet, Metamask, Javascript, CSS.  People's votes are stored in the Moralis database which is correlated with our Smart Contract (also verified on Polygonscan by Hardhat). The Smart Contract doesn’t allow us to vote with the same Wallet twice for the same coin. 
-Coding this project I have learned a lot, Moralis allows us to build complete Dapps in a quick and easy way. They provides us with fast nodes, APIs, etc... In a few days I will deploy the Dapp on Netifly so that all of you can use it. Thanks for reading! 
+Coding this project I have learned a lot, Moralis allows us to build complete Dapps in a quick and easy way. They provides us with fast nodes, APIs, etc...
 Greetings. Jose!
+
+Video Dapp working:
+https://www.linkedin.com/posts/jose-campoo-olalla-1a3121ab_dapp-blockchaindevelopers-solidity-ugcPost-6937496902074568704-94Ci?utm_source=linkedin_share&utm_medium=member_desktop_web
